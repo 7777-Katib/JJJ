@@ -1,7 +1,8 @@
 .container {
-    height:600px;
+    height:200px;
     background-color:white;
     margin-bottom:100px;
+    border:2px solid red;
 }
 
 .navbar{
@@ -100,15 +101,14 @@ span{
     display:flex;
     justify-content:center;
     color:rgb(49, 18, 71);
-    margin-top:100px;
-    bottom:700px;
+    top:100px;
 }
 
 .card img{
     padding:20px;
 }
 .card{
-    bottom:400px;
+    bottom:-60ppx;
     margin-bottom:20px;
     border-radius:20px;
     box-shadow:5px 5px 30px gray;
@@ -134,4 +134,11 @@ span{
     justify-content:center;
     color:rgb(4, 0, 7);
     top:200px;
+}
+#ler{
+    height:600px;
+}
+#pik{
+    height:400px;
+    bottom:100px;
 }
