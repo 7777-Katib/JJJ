@@ -1,0 +1,137 @@
+.container {
+    height:600px;
+    background-color:white;
+    margin-bottom:100px;
+}
+
+.navbar{
+    display:flex;
+    background-color: rgb(233, 247, 247) !important;
+    height:100px;
+    position:sticky;
+}
+.navbar img{
+    width:250px;
+    padding:20px 20px;
+}
+
+.btn{
+    background-color:rgb(5, 146, 75) ;
+    border-radius:20px;
+    padding:6px 20px;
+    margin:13px;
+    color:white;
+}
+
+.btn:hover{
+    background-color: rgb(12, 114, 12);
+}
+#navbarNav ul li a{
+    padding:21px;
+    font-size:18px;
+}
+
+p.lip{
+    color:rgb(230, 88, 6);
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+#hj{
+    padding:77px 79px;
+}
+#hk{
+    padding:48px 0px;
+}
+span{
+    color:rgb(5, 146, 75) ;
+}
+
+
+.category img{
+    width:100px;
+}
+.category{
+    margin-top:80px;
+}
+.cat1{
+    padding:31px 34px;
+    border:none;
+    box-shadow:5px 5px 30px lightgray;
+}
+.cat2{
+    padding:45px 20px;
+    border:none;
+    box-shadow:5px 5px 30px lightgray;
+}
+.cat3{
+    padding:45px 20px;
+    border:none;
+    box-shadow:5px 5px 30px lightgray;
+}
+.cat4{
+    padding:42px 20px;
+    border:none;
+    box-shadow:5px 5px 30px lightgray;
+}
+
+.cat1:hover{
+    transform: scale(1.1);
+    box-shadow:5px 5px 30px rgb(5, 146, 75);
+}
+.cat2:hover{
+    transform: scale(1.1);
+    box-shadow:5px 5px 30px rgb(5, 146, 75);
+}
+.cat3:hover{
+    transform: scale(1.1);
+    box-shadow:5px 5px 30px rgb(5, 146, 75);
+}
+.cat4:hover{
+    transform: scale(1.1);
+    box-shadow:5px 5px 30px rgb(5, 146, 75);
+    
+}
+
+.h{
+    display:flex;
+    justify-content:center;
+    color:rgb(49, 18, 71);
+    margin-top:100px;
+    bottom:700px;
+}
+
+.card img{
+    padding:20px;
+}
+.card{
+    bottom:400px;
+    margin-bottom:20px;
+    border-radius:20px;
+    box-shadow:5px 5px 30px gray;
+    margin:-5px;
+}
+
+.card h4{
+    color:rgba(82, 48, 107, 0.918);
+}
+.card p{
+    color:rgb(136, 132, 132);
+}
+.card-footer{
+    border-top:none;
+    padding:0px;
+}
+.card-footer span{
+    color:rgb(83, 78, 78);
+}
+
+.lio{
+    display:flex;
+    justify-content:center;
+    color:rgb(4, 0, 7);
+    top:200px;
+}
