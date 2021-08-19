@@ -1,0 +1,44 @@
+
+
+#navbar{
+    display:flex;
+    flex-direction: column-reverse;
+}
+#ler{
+    border:2px solid red;
+    height:1744px;
+    
+  
+    margin-top: 700px;
+    margin-bottom:0px;
+}
+#pik{
+    height:890px;
+    border:2px solid red;
+    margin: 1200px 0px;
+    margin-top: 93px;
+    margin-bottom:0px;
+   
+}
+}
+#pik img{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:20px 10px;
+    margin:23px 146px;
+}
+
+#pik p{
+    margin:-54px 61px;
+    padding:10px 25px;
+}
+
+#glac{
+    border:2px solid red;
+  
+
+    top:100px;
+    margin:0px 0px;
+    height:804px;
+}
