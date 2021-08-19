@@ -2,7 +2,11 @@
     height:200px;
     background-color:white;
     margin-bottom:100px;
-    border:2px solid red;
+   
+}
+
+#yu{
+    background-color:rgb(233, 247, 247);
 }
 
 .navbar{
@@ -17,15 +21,17 @@
 }
 
 .btn{
-    background-color:rgb(5, 146, 75) ;
+    background-color:rgb(5, 146, 75);
     border-radius:20px;
     padding:6px 20px;
     margin:13px;
     color:white;
+    transition:all 0.5s ease-in 0.3s;
 }
 
 .btn:hover{
-    background-color: rgb(12, 114, 12);
+    background-color: rgb(4, 78, 4);
+    
 }
 #navbarNav ul li a{
     padding:21px;
@@ -42,7 +48,7 @@ h1{
 }
 
 #hj{
-    padding:77px 79px;
+    padding:77px 120px;
 }
 #hk{
     padding:48px 0px;
@@ -113,6 +119,7 @@ span{
     border-radius:20px;
     box-shadow:5px 5px 30px gray;
     margin:-5px;
+    top:62px;
 }
 
 .card h4{
@@ -136,9 +143,52 @@ span{
     top:200px;
 }
 #ler{
-    height:600px;
+    height:720px;
 }
 #pik{
-    height:400px;
-    bottom:100px;
+    height:300px;
+    top:80px;
+}
+#pik h1{
+    display:flex;
+    justify-content:center;
+    color:rgb(33, 13, 49);
+    top:200px;
+    font-family: 'Rubik', sans-serif;
+   
+}
+#pik img{
+    padding:68px 23px;
+}
+
+#pik p{
+    padding:84px 13px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#glac{
+    color:white;
+    background-color: #161219f0;
+    height:350px;
+}
+
+#enjoy{
+    padding:50px 89px;
+}
+
+#il{
+    padding:50px 20px;
+}
+#iy{
+    padding:50px 20px;
+}
+#ip{
+    padding:50px 20px;
+}
+
+footer{
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
 }
